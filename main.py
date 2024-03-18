@@ -78,7 +78,7 @@ if __name__ == "__main__":
     technologies = portfolio.technologies()
     resume = portfolio.resume()
     projects = portfolio.projects()
-    #blog = portfolio.blog()
+    blog = portfolio.blog()
     categories = portfolio.categories()
 
     env = Environment(loader=FileSystemLoader("src/jinja"))
@@ -94,7 +94,7 @@ if __name__ == "__main__":
         technologies=technologies,
         resume=resume,
         projects=projects,
-        #blog=blog,
+        blog=blog,
         categories=categories,
     )
 
