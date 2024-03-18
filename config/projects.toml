@@ -27,7 +27,7 @@ url = "https://github.com/Umesh1610/Linkedin"
 [[project]]
 title = "Retail Customer Analysis"
 category = "Data Analysis"
-image = "./config/assets/projects/cpp.png"
+image = "./config/assets/projects/rca.png"
 url = "https://github.com/Umesh1610/Retail-Customer-Analysis"
 
 [[project]]
