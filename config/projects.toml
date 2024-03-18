@@ -5,6 +5,12 @@ image = "https://imgur.com/a/IetXEIJ.png"
 url = "https://github.com/Umesh1610/plus"
 
 [[project]]
+title = "Plus"
+category = "Product Management"
+image = "./config/assets/projects/Plus.jpg"
+url = "https://github.com/Umesh1610/plus"
+
+[[project]]
 title = "Flutter Coffee Shop App"
 category = "Mobile development"
 image = "https://imgur.com/2nNXhDN.png"
